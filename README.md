@@ -118,3 +118,4 @@ This is the **central script** that ties all features together. It serves as the
 git clone https://github.com/yourusername/medical-diagnosis-assistant.git
 cd medical-diagnosis-assistant
 pip install -r Requirements.txt.txt
+streamlit run App.py
