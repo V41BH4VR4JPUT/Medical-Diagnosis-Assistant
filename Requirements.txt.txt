@@ -8,6 +8,4 @@ jupyter
 joblib
 streamlit
 requests
-subprocess
-base64
 
