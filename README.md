@@ -77,16 +77,6 @@ This folder contains the trained models and scripts for each prediction feature.
 
 ---
 
-### 🖼️ Images Slot
-
-> 🔽 **Slot 1: Dashboard Preview**
-> *(Insert screenshot of the main dashboard or symptom input interface here)*
-
-> 🔽 **Slot 2: Model Prediction Output**
-> *(Insert screenshot showing predicted disease and PDF report generation message)*
-
----
-
 ## 📄 Report Generation (`Reports/`)
 
 After a successful prediction:
