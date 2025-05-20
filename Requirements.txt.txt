@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+reportlab
+matplotlib
+seaborn
+jupyter
+joblib
+streamlit
+requests
+subprocess
+base64
+
